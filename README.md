@@ -71,6 +71,10 @@ pip install -r requirements.txt
 
 ## Training
 
+Before training, download the QuickDraw `.npy` files and place them in the `data/` directory.
+
+This project uses 20 classes defined in `src/config.py`. If you want to train on different categories, update the `CLASSES` list in `src/config.py` and make sure the corresponding `.npy` files are available in `data/`.
+
 Train the model using:
 
 ```bash
