@@ -41,14 +41,14 @@ The CNN model in this project is trained to classify sketches into the following
 | 9  | house      |
 | 10 | key        |
 | 11 | leaf       |
-| 12 | light bulb |
-| 13 | lightning  |
+| 12 | lightning  |
+| 13 | mountain   |
 | 14 | pants      |
 | 15 | pencil     |
 | 16 | pizza      |
 | 17 | shoe       |
 | 18 | star       |
-| 19 | sun        |
+| 19 | t-shirt    |
 | 20 | tree       |
 
 
