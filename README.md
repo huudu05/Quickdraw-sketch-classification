@@ -12,7 +12,7 @@ This project implements a sketch classification system using a Convolutional Neu
 ### Video Demonstration
 
 
-https://github.com/user-attachments/assets/drawing_demo.mp4
+[https://github.com/user-attachments/assets/drawing_demo.mp4](https://github.com/user-attachments/assets/16fcab1e-9b06-4951-a9ac-d5dd7a04ab9f)
 
 This video demonstrates the interactive drawing application, where users draw sketches directly on the canvas using a mouse. After each completed drawing, the CNN model processes the sketch and displays the predicted object category along with its confidence score below the canvas in real time.
 
