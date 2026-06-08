@@ -1,0 +1,22 @@
+CLASSES = [
+    "airplane",
+    "bicycle",
+    "banana",
+    "book",
+    "cloud",
+    "door",
+    "fish",
+    "hammer",
+    "house",
+    "key",
+    "leaf",
+    "lightning",
+    "mountain",
+    "pants",
+    "pencil",
+    "pizza",
+    "shoe",
+    "star",
+    "t-shirt",
+    "tree"
+]

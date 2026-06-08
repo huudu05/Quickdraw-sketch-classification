@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VSCode
+.vscode/
+
+# Dataset
+data/
+
+# Training Artifacts
+checkpoints/
+tensorboard_logs/
+
+# Generated Outputs
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
